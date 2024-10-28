@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo:#8240fcf8;
+    --cor-de-texto:#b12020;
+    --destaque:rgb(12, 110, 89);
+    --links:hsl(240, 100%, 27%);
+}
+.cabecalho{
+    background-color:var(--cor-de-fundo);
+}
