@@ -1,0 +1,14 @@
+@import url("styles/header.css");
+:root{
+    --cor-de-fundo:#8eb7f5ec;
+    --cor-de-texto:#b12020;
+    --destaque:rgb(12, 110, 89);
+    --links:hsl(240, 100%, 27%);
+}
+.cabecalho{
+    background-color:var(--cor-de-fundo);
+}
+.ceu{
+    height: 90vh
+    background-image: url(img/premium_photo-1673029927496-a9b574091d12.jpeg);
+}
